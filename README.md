@@ -98,3 +98,4 @@ notebooks/         # Colab notebook untuk GPU training & SAM label generation
 - Output training: `runs/detect/{name}/weights/best.pt`
 - Snapshot pothole tersimpan otomatis pertama kali `tracker_id` terdeteksi di `runs/snapshots/`
 - Rekaman video tersimpan di `runs/recordings/`
+
