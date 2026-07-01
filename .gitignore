@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+runs/
+yolo11n.pt
+dataset/archive.zip
+*.mp4
+*.jpg
+screenshot_*.jpg

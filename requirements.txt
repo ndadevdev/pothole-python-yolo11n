@@ -1,0 +1,13 @@
+opencv-python-headless>=4.8
+ultralytics>=8.0
+supervision>=0.18
+numpy>=1.24
+Pillow>=10.0
+huggingface-hub>=0.20
+folium>=0.18
+geopy>=2.4
+winrt-Windows.Foundation>=3.2
+winrt-Windows.Devices.Geolocation>=3.2
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
